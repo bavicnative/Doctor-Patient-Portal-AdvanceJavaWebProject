@@ -1,4 +1,4 @@
-# Doctor-Patient-Portal : Advance Java WebProject
+# Doctor-Patient-Portal : Advance Java WebProject.
 Doctor Patient Portal is an Advance Java Web Project. 
 
 # Technology used in this project: 
